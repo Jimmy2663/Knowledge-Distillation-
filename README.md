@@ -206,7 +206,7 @@ For each epoch (training, validation, test):
 - **Confusion matrices**: For train, validation, and test sets
 - **Classification reports**: Precision/recall/F1 per class
 
-## 🔍 Single Image Prediction
+##  Single Image Prediction
 
 To make predictions on a single image:
 
